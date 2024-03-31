@@ -6,7 +6,7 @@
 
 💞️ Seeking brave adventurers to join me in shaping the digital landscape! Whether it's conquering the front-end frontier with React or exploring the depths of Pythonic wisdom, let's collaborate and create wonders together.
 
-📫 Ready to embark on this epic journey? Send a message to my celestial inbox: [reactgod@example.com](mailto:reactgod@example.com)
+📫 Ready to embark on this epic journey? Send a message to my celestial inbox: [augustocsuarez1985@gmail.com](mailto:augustocsuarez1985@gmail.com) 
 
 😄 Pronouns: Code Conjuror, JS Jedi, Python Pathfinder
 
